@@ -21,9 +21,11 @@ Email: santigini96@gmail.com
 Linkedin: https://www.linkedin.com/in/santiagogini/
 
 Projects that i made myself:
+
 E-commerce Videogames
 
 ● We have developed an application for selling virtual video games, in which the user will be able to register, add a product to favorites, pay for it or comment on it.
+
 ● We also created an admin panel, where the administrator will be able to ban users, hide user comments, edit/add products and make use of product stock management.
 
 Code:
