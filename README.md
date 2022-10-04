@@ -30,7 +30,10 @@ Code:
 Front  https://github.com/mrchurches/e-commerce_client
 Back  https://github.com/Mjosuex85/e-commerce_API
 
-Page:https://e-commerce-videogames.vercel.app/
+Video: https://vimeo.com/755268350
+Page: https://e-commerce-videogames.vercel.app/
+
+
 
 
 <!--
