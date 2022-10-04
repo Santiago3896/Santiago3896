@@ -1,6 +1,6 @@
 Hi, I'm Santiago Gini! 👋
 
-Who I am? I am Santiago and I am 26 years old. Full Stack Developer with teamwork skills and good predisposition when working.
+###Who I am? I am Santiago and I am 26 years old. Full Stack Developer with teamwork skills and good predisposition when working.
 
 Throughout this year, I left my job to be able to give my life the turn I wanted. I quit my job and started studying Henry's bootcamp at Full Stack Developer, with more than 700 hours of theory and practice. I was able to do individual and group projects (with scrum methodology, dailys and demos every week) throughout the bootcamp, and I was able to learn the basics of both the back-end and the front-end with the JavaScript language.
 
@@ -8,7 +8,7 @@ Throughout this year, I left my job to be able to give my life the turn I wanted
 My work experience? I worked approximately 3 years as an Account Executive recovering Iva from exporting companies and 3 years in a Forwarder in the administrative area.
 
 Soft skills:
--Problem solving, Self-taught, Dedicated, Sociable, Proactive, Responsible, Persevering.
+Problem solving, Self-taught, Dedicated, Sociable, Proactive, Responsible, Persevering.
 
 🛠 Languages and Tools:
 ![github foto](https://user-images.githubusercontent.com/96921929/193863892-038d2b7a-6fab-442d-a184-b0733c7b6adb.png)
