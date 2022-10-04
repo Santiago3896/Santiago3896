@@ -1,4 +1,4 @@
-<h1>Hi, I'm Santiago Gini! 👋</h1>
+<h3>Hi, I'm Santiago Gini! 👋</h3>
 
 Who I am? I am Santiago and I am 26 years old. Full Stack Developer with teamwork skills and good predisposition when working.
 
@@ -20,9 +20,9 @@ Wpp: +54 9 11 38488967
 Email: santigini96@gmail.com   
 Linkedin: https://www.linkedin.com/in/santiagogini/
 
-Projects that i made myself:
+<h5>Projects that i made myself:</h5>
 
-E-commerce Videogames
+<h6>E-commerce Videogames</h6>
 
 ● We have developed an application for selling virtual video games, in which the user will be able to register, add a product to favorites, pay for it or comment on it.
 
