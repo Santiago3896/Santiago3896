@@ -1,6 +1,6 @@
 Hi, I'm Santiago Gini! 👋
 
-###Who I am? I am Santiago and I am 26 years old. Full Stack Developer with teamwork skills and good predisposition when working.
+Who I am? I am Santiago and I am 26 years old. Full Stack Developer with teamwork skills and good predisposition when working.
 
 Throughout this year, I left my job to be able to give my life the turn I wanted. I quit my job and started studying Henry's bootcamp at Full Stack Developer, with more than 700 hours of theory and practice. I was able to do individual and group projects (with scrum methodology, dailys and demos every week) throughout the bootcamp, and I was able to learn the basics of both the back-end and the front-end with the JavaScript language.
 
